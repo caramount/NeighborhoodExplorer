@@ -77,6 +77,14 @@ ModelImporter:
     100138: pCylinder1
     100140: pPyramid1
     100142: pCube71
+    100144: pCube72
+    100146: pCube73
+    100148: pCube74
+    100150: pCylinder2
+    100152: pCube75
+    100154: transform1
+    100156: transform2
+    100158: transform3
     400000: //RootNode
     400002: pCone1
     400004: pCone2
@@ -149,6 +157,14 @@ ModelImporter:
     400138: pCylinder1
     400140: pPyramid1
     400142: pCube71
+    400144: pCube72
+    400146: pCube73
+    400148: pCube74
+    400150: pCylinder2
+    400152: pCube75
+    400154: transform1
+    400156: transform2
+    400158: transform3
     2300000: pCone1
     2300002: pCone2
     2300004: pCube1
@@ -220,6 +236,11 @@ ModelImporter:
     2300136: pCylinder1
     2300138: pPyramid1
     2300140: pCube71
+    2300142: pCube72
+    2300144: pCube73
+    2300146: pCube74
+    2300148: pCylinder2
+    2300150: pCube75
     3300000: pCone1
     3300002: pCone2
     3300004: pCube1
@@ -291,6 +312,11 @@ ModelImporter:
     3300136: pCylinder1
     3300138: pPyramid1
     3300140: pCube71
+    3300142: pCube72
+    3300144: pCube73
+    3300146: pCube74
+    3300148: pCylinder2
+    3300150: pCube75
     4300000: pCube1
     4300002: pCube2
     4300004: pCube3
@@ -362,6 +388,11 @@ ModelImporter:
     4300136: pCube69
     4300138: pCube70
     4300140: pCube71
+    4300142: pCube72
+    4300144: pCube73
+    4300146: pCube74
+    4300148: pCylinder2
+    4300150: pCube75
     7400000: Take 001
     9500000: //RootNode
   materials:
